@@ -105,8 +105,7 @@ Flipkart-Sales-Dashboard/
 
 📊 Dashboard Preview
 
-![Flipkart Sales Dashboard]
-(Flipkart_Dashboard.png)
+![Flipkart_Dashboard](Flipkart_Dashboard.png)
 
 👩‍💻 Author
 
