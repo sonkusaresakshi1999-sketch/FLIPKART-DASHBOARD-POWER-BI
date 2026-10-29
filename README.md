@@ -111,4 +111,4 @@ Flipkart-Sales-Dashboard/
 
 **Sakshi Sonkusare**
 
-This project was developed as part of my practical learning in **Data Analysis, Business Intelligence, and Power BI Dashboard Development**.
+This project was developed as part of my practical learning in **Power BI Dashboard Development**.
