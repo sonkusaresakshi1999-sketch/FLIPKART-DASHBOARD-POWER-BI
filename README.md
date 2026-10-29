@@ -103,6 +103,11 @@ Flipkart-Sales-Dashboard/
 4. Open the file in Power BI Desktop.
 5. Explore the KPI cards, charts, map, and payment method slicer.
 
+📊 Dashboard Preview
+
+![Flipkart Sales Dashboard]
+(Flipkart_Dashboard.png)
+
 👩‍💻 Author
 
 **Sakshi Sonkusare**
